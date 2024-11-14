@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4S5Kiw+ecU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\GitHub\\M10\\Ponderada-prog-M10-S04\\MetricsExample\\MetricsExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

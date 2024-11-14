@@ -1,0 +1,17 @@
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\MetricsExample.exe
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\MetricsExample.deps.json
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\MetricsExample.runtimeconfig.json
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\MetricsExample.dll
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\MetricsExample.pdb
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.csproj.AssemblyReference.cache
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.csproj.CopyComplete
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.dll
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\refint\MetricsExample.dll
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.pdb
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\MetricsExample.genruntimeconfig.cache
+C:\Users\Inteli\Documents\GitHub\M10\Ponderada-prog-M10-S04\MetricsExample\obj\Debug\net7.0\ref\MetricsExample.dll
